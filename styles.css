@@ -1,0 +1,27 @@
+iframe{
+	/*position:relative;*/
+	width:100%;
+	max-height:100%;
+}
+
+body{
+	font-family:helvetica;
+	font-size:18px;
+	/*margin-left:20%;
+	margin-right:20%;*/
+}
+
+
+.frame{
+	height:auto;
+	/*max-height:100%;*/
+	/*max-width:80%;*/
+	/*margin-left:;*/
+	margin-left:20%;
+	margin-right:20%;
+}
+
+
+.notes {
+	font-size:12px;
+}
